@@ -1,0 +1,794 @@
+[
+  {
+    "path": "/",
+    "score": 0.9
+  },
+  {
+    "path": "/agencies/arb/about",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/arb/about/members",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/arb/briefs",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/arb/briefs/07-123",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/arb/briefs/09-108",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/arb/briefs/13-001",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/arb/briefs/16-019_16-021",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/arb/briefs/16-035",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/arb/contact/information-quality",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/arb/decisions",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/arb/faqs",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/arb/faqs/address",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/arb/faqs/dec",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/arb/faqs/fax",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/arb/faqs/pregs",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/arb/faqs/status",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/arb/foia",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/arb/resources/amicus-briefs",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/arb/resources/electronic-filing-service",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/arb/resources/rules",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions",
+    "score": 0.92
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/published",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/published/1989-1993main",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/published/2005-2006main",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/published/2010main",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/published/2019main",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/published/2020main",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished",
+    "score": 0.92
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Apr07/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Apr08/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Apr09/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Aug07/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Aug08/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Aug09",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Aug09/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Dec03",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Dec07/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Dec08/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Feb07/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Feb08/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Feb09/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Jan07/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Jan08/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Jan09/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Jul07/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Jul08/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Jul09/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Jul21",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/juldec93/92-1697",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/juldec96/95-2163",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Jun07/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Jun08/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Jun09/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Mar07/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Mar08/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Mar09/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/May07/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/May08/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/May09/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/May11",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Nov07/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Nov08/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Nov19",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Oct07/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Oct08/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Oct09/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Sept07/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Sept08/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Sept09/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished2",
+    "score": 0.92
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/published",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/published/2002main",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/published/2007fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/published/2016main",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/published/2020main",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/published/99-1192",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished",
+    "score": 0.92
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Apr07/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Apr08/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Apr09/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Aug07/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Aug08/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Aug09/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Dec07/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Dec08/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Dec22",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Feb07/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Feb08/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Feb09/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Feb98/97-0668",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Jan01",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Jan07/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Jan08/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Jan09/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Jul07/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Jul08/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Jul09/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Jun07/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Jun08/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Jun09/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Jun18",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Jun22",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Mar07/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Mar08/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Mar09/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/May07/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/May08/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/May09/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Nov05",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Nov07/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Nov08/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Oct07/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Oct08/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Oct09/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Sept07/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Sept08/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Sept09/fnmain",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/faqs/address",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/faqs/appeal",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/faqs/doc",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/faqs/pleading",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/faqs/status",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/links",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/lsdesk",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/notice_of_appeal_rights",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/orgchart",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/References/reference_works/bla/bldesk",
+    "score": 0.93
+  },
+  {
+    "path": "/agencies/brb/References/Reference_Works/Bla/cco",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/brb/References/Reference_works/lhca/lsdesk",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/cfoi/featured/reentry",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/cfoi/featured/working-together",
+    "score": 0.93
+  },
+  {
+    "path": "/agencies/ebsa",
+    "score": 0.92
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/about-us",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/about-us/erisa-advisory-council",
+    "score": 0.92
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/about-us/erisa-advisory-council/2005-health-and-welfare-benefit-plans-communications",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/about-us/erisa-advisory-council/2006-health-information-technology",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/about-us/erisa-advisory-council/2008-hard-to-value-assets-and-target-date-funds",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/about-us/erisa-advisory-council/2014-issue-statements-outsourcing-employee-benefit-plan-services",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/about-us/erisa-advisory-council/reports",
+    "score": 0.92
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/about-us/mission-statement",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/about-us/organization-chart",
+    "score": 0.89
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/about-us/sbrefa-non-retaliation-policy",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/about-us/what-we-do",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/ask-a-question/ask-ebsa",
+    "score": 0.91
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/ask-a-question/hace-una-pregunta",
+    "score": 0.92
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/enforcement",
+    "score": 0.92
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/enforcement/eci",
+    "score": 0.92
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/enforcement/erisa",
+    "score": 0.92
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/enforcement/healthcare-fraud",
+    "score": 0.92
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/enforcement/oca-manual",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/enforcement/oca-manual/chapter-1",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/enforcement/oca-manual/chapter-4",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/enforcement/oca-manual/chapter-6",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/enforcement/oca-manual/chapter-8",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/enforcement/oca-manual/chapter-9",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/enforcement/oe-manual",
+    "score": 0.92
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/enforcement/oe-manual/collection-and-preservation-of-evidence",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/enforcement/oe-manual/health-plan-investigations",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/enforcement/oe-manual/investigative-authority",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/enforcement/oe-manual/voluntary-compliance-guidelines",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/enforcement/oe-manual/voluntary-fiduciary-correction-program",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/newsroom",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/newsroom/joint-enforcement-releases",
+    "score": 0.92
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/programs-and-initiatives",
+    "score": 0.92
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/programs-and-initiatives/outreach-and-education/hbec",
+    "score": 0.9
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/programs-and-initiatives/outreach-and-education/saver-summit",
+    "score": 0.92
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/programs-and-initiatives/outreach-and-education/saver-summit/delegates-1998",
+    "score": 0.9
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/programs-and-initiatives/outreach-and-education/saver-summit/delegates-2002",
+    "score": 0.9
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/programs-and-initiatives/outreach-and-education/saver-summit/delegates-2006",
+    "score": 0.87
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/public-disclosure",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/public-disclosure/2008-funding-status-notices",
+    "score": 0.93
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/public-disclosure/2009-funding-status-notices",
+    "score": 0.92
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/public-disclosure/2017-funding-status-notices",
+    "score": 0.92
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/public-disclosure/2022-funding-status-notices",
+    "score": 0.92
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/public-disclosure/2023-funding-status-notices",
+    "score": 0.92
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/public-disclosure/foia/act",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/public-disclosure/foia/electronic",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/public-disclosure/foia/form-5500-datasets",
+    "score": 0.92
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/resource-center",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/resource-center/advisery-opinions/1997-09a",
+    "score": 0.96
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/resource-center/advisory-opinions/1982-46a",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/resource-center/advisory-opinions/1983-46a",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/resource-center/advisory-opinions/1984-20a",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/resource-center/advisory-opinions/1984-32a",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/resource-center/advisory-opinions/1986-28a",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/resource-center/fact-sheets",
+    "score": 0.92
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/resource-center/fact-sheets/abandoned-individual-account-plan",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/resource-center/fact-sheets/cash-balance-pension-plans",
+    "score": 0.92
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/resource-center/fact-sheets/final-rule-on-prudence-and-loyalty-in-selecting-plan-investments-and-exercising-shareholder-rights",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/resource-center/fact-sheets/improving-investment-advice-for-workers-and-retirees",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/resource-center/fact-sheets/what-to-do-if-your-health-coverage-can-no-longer-pay-benefits",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/resource-center/faqs",
+    "score": 0.92
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/resource-center/faqs/aca-part-56",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/resource-center/faqs/aca-part-58",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/resource-center/faqs/aca-part-59",
+    "score": 0.94
+  },
+  {
+    "path": "/agencies/EBSA/employers-and-advisers/guidance/field-assistance-bulletins/2019-01",
+    "score": 0.94
+  }
+]
