@@ -1,0 +1,113 @@
+[
+  {
+    "id": "list",
+    "title": "Lists do not contain only `<li>` elements and script supporting elements (`<script>` and `<template>`).",
+    "description": "Screen readers have a specific way of announcing lists. Ensuring proper list structure aids screen reader output. [Learn more](https://web.dev/list/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "11-119-UL",
+            "path": "1,HTML,1,BODY,1,DIV,0,DIV,2,MAIN,2,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,2,UL",
+            "selector": "div > div.paragraph > div.field > ul.usa-list",
+            "boundingRect": {
+              "top": 562,
+              "bottom": 957,
+              "left": 60,
+              "right": 948,
+              "width": 887,
+              "height": 396
+            },
+            "snippet": "<ul class=\"usa-list\">",
+            "nodeLabel": "Board's EFS deployment Notice\n\n\nImportant Notice about Filing Black Lung Appeal…",
+            "explanation": "Fix all of the following:\n  List element has direct children that are not allowed inside <li> elements"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "11-123-BR",
+                  "path": "1,HTML,1,BODY,1,DIV,0,DIV,2,MAIN,2,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,2,UL,1,BR",
+                  "selector": "div.paragraph > div.field > ul.usa-list > br",
+                  "boundingRect": {
+                    "top": 593,
+                    "bottom": 615,
+                    "left": 84,
+                    "right": 84,
+                    "width": 0,
+                    "height": 22
+                  },
+                  "snippet": "<br>",
+                  "nodeLabel": "div.paragraph > div.field > ul.usa-list > br"
+                }
+              },
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "11-124-BR",
+                  "path": "1,HTML,1,BODY,1,DIV,0,DIV,2,MAIN,2,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,2,UL,3,BR",
+                  "selector": "div.paragraph > div.field > ul.usa-list > br",
+                  "boundingRect": {
+                    "top": 649,
+                    "bottom": 671,
+                    "left": 84,
+                    "right": 84,
+                    "width": 0,
+                    "height": 22
+                  },
+                  "snippet": "<br>",
+                  "nodeLabel": "div.paragraph > div.field > ul.usa-list > br"
+                }
+              },
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "11-125-BR",
+                  "path": "1,HTML,1,BODY,1,DIV,0,DIV,2,MAIN,2,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,2,UL,5,BR",
+                  "selector": "div.paragraph > div.field > ul.usa-list > br",
+                  "boundingRect": {
+                    "top": 704,
+                    "bottom": 726,
+                    "left": 84,
+                    "right": 84,
+                    "width": 0,
+                    "height": 22
+                  },
+                  "snippet": "<br>",
+                  "nodeLabel": "div.paragraph > div.field > ul.usa-list > br"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.structure",
+          "wcag2a",
+          "wcag131"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]

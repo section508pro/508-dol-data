@@ -1,0 +1,73 @@
+[
+  {
+    "id": "aria-required-children",
+    "title": "Elements with an ARIA `[role]` that require children to contain a specific `[role]` are missing some or all of those required children.",
+    "description": "Some ARIA parent roles must contain specific child roles to perform their intended accessibility functions. [Learn more](https://web.dev/aria-required-children/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "11-194-DIV",
+            "path": "1,HTML,1,BODY,1,DIV,0,DIV,2,MAIN,2,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV",
+            "selector": "div.field > div.accordion-wrapper > div.accordion-group > div.paragraph",
+            "boundingRect": {
+              "top": 825,
+              "bottom": 6146,
+              "left": 40,
+              "right": 332,
+              "width": 292,
+              "height": 5322
+            },
+            "snippet": "<div class=\"paragraph paragraph--type--accordion-item paragraph--view-mode--default do…\" role=\"tablist\" aria-multiselectable=\"true\">",
+            "nodeLabel": "Statutorily Required Delegates\nCongressional Members\nDennis Hastert, Speaker of…",
+            "explanation": "Fix any of the following:\n  Required ARIA child role not present: tab"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "11-195-DIV",
+            "path": "1,HTML,1,BODY,1,DIV,0,DIV,2,MAIN,2,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV",
+            "selector": "div.field > div.accordion-wrapper > div.accordion-group > div.paragraph",
+            "boundingRect": {
+              "top": 6146,
+              "bottom": 6208,
+              "left": 40,
+              "right": 332,
+              "width": 292,
+              "height": 62
+            },
+            "snippet": "<div class=\"paragraph paragraph--type--accordion-item paragraph--view-mode--default do…\" role=\"tablist\" aria-multiselectable=\"true\">",
+            "nodeLabel": "Appointed Delegates",
+            "explanation": "Fix any of the following:\n  Required ARIA child role not present: tab"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "critical",
+        "tags": [
+          "cat.aria",
+          "wcag2a",
+          "wcag131"
+        ]
+      }
+    },
+    "errorCount": 2
+  }
+]
