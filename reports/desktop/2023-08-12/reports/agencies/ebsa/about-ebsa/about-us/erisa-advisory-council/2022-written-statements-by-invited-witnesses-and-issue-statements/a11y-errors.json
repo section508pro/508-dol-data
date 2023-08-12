@@ -1,0 +1,92 @@
+[
+  {
+    "id": "aria-required-children",
+    "title": "Elements with an ARIA `[role]` that require children to contain a specific `[role]` are missing some or all of those required children.",
+    "description": "Some ARIA parent roles must contain specific child roles to perform their intended accessibility functions. [Learn more](https://web.dev/aria-required-children/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "11-217-DIV",
+            "path": "1,HTML,1,BODY,1,DIV,0,DIV,2,MAIN,2,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV",
+            "selector": "div.field > div.accordion-wrapper > div.accordion-group > div.paragraph",
+            "boundingRect": {
+              "top": 440,
+              "bottom": 1074,
+              "left": 40,
+              "right": 948,
+              "width": 908,
+              "height": 634
+            },
+            "snippet": "<div class=\"paragraph paragraph--type--accordion-item paragraph--view-mode--default do…\" role=\"tablist\" aria-multiselectable=\"true\">",
+            "nodeLabel": "Cybersecurity Issues Affecting Health Benefit Plans\n\nNicholas P. Heesters, Jr.,…",
+            "explanation": "Fix any of the following:\n  Required ARIA child role not present: tab"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "11-218-DIV",
+            "path": "1,HTML,1,BODY,1,DIV,0,DIV,2,MAIN,2,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV",
+            "selector": "div.field > div.accordion-wrapper > div.accordion-group > div.paragraph",
+            "boundingRect": {
+              "top": 1074,
+              "bottom": 1135,
+              "left": 40,
+              "right": 948,
+              "width": 908,
+              "height": 62
+            },
+            "snippet": "<div class=\"paragraph paragraph--type--accordion-item paragraph--view-mode--default do…\" role=\"tablist\" aria-multiselectable=\"true\">",
+            "nodeLabel": "Cybersecurity Insurance and Employee Benefit Plans",
+            "explanation": "Fix any of the following:\n  Required ARIA child role not present: tab"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "11-219-DIV",
+            "path": "1,HTML,1,BODY,1,DIV,0,DIV,2,MAIN,2,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,2,DIV,0,DIV",
+            "selector": "div.field > div.accordion-wrapper > div.accordion-group > div.paragraph",
+            "boundingRect": {
+              "top": 1135,
+              "bottom": 1197,
+              "left": 40,
+              "right": 948,
+              "width": 908,
+              "height": 62
+            },
+            "snippet": "<div class=\"paragraph paragraph--type--accordion-item paragraph--view-mode--default do…\" role=\"tablist\" aria-multiselectable=\"true\">",
+            "nodeLabel": "2022 Advisory Council Issue Statements",
+            "explanation": "Fix any of the following:\n  Required ARIA child role not present: tab"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "critical",
+        "tags": [
+          "cat.aria",
+          "wcag2a",
+          "wcag131"
+        ]
+      }
+    },
+    "errorCount": 3
+  }
+]
