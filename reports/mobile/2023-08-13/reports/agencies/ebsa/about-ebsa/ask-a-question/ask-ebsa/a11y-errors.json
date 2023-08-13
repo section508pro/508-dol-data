@@ -1,0 +1,111 @@
+[
+  {
+    "id": "aria-required-children",
+    "title": "Elements with an ARIA `[role]` that require children to contain a specific `[role]` are missing some or all of those required children.",
+    "description": "Some ARIA parent roles must contain specific child roles to perform their intended accessibility functions. [Learn more](https://web.dev/aria-required-children/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "15-234-DIV",
+            "path": "1,HTML,1,BODY,1,DIV,0,DIV,2,MAIN,2,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV",
+            "selector": "div.field > div.accordion-wrapper > div.accordion-group > div.paragraph",
+            "boundingRect": {
+              "top": 2053,
+              "bottom": 3338,
+              "left": 40,
+              "right": 332,
+              "width": 292,
+              "height": 1285
+            },
+            "snippet": "<div class=\"paragraph paragraph--type--accordion-item paragraph--view-mode--default do…\" role=\"tablist\" aria-multiselectable=\"true\">",
+            "nodeLabel": "Common Questions\n\nHealth, Disability and Other Welfare Benefits\nCan the Departm…",
+            "explanation": "Fix any of the following:\n  Required ARIA child role not present: tab"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "15-235-DIV",
+            "path": "1,HTML,1,BODY,1,DIV,0,DIV,2,MAIN,2,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV",
+            "selector": "div.field > div.accordion-wrapper > div.accordion-group > div.paragraph",
+            "boundingRect": {
+              "top": 3338,
+              "bottom": 3399,
+              "left": 40,
+              "right": 332,
+              "width": 292,
+              "height": 62
+            },
+            "snippet": "<div class=\"paragraph paragraph--type--accordion-item paragraph--view-mode--default do…\" role=\"tablist\" aria-multiselectable=\"true\">",
+            "nodeLabel": "Resources",
+            "explanation": "Fix any of the following:\n  Required ARIA child role not present: tab"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "15-236-DIV",
+            "path": "1,HTML,1,BODY,1,DIV,0,DIV,2,MAIN,2,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,2,DIV,0,DIV",
+            "selector": "div.field > div.accordion-wrapper > div.accordion-group > div.paragraph",
+            "boundingRect": {
+              "top": 3399,
+              "bottom": 3461,
+              "left": 40,
+              "right": 332,
+              "width": 292,
+              "height": 62
+            },
+            "snippet": "<div class=\"paragraph paragraph--type--accordion-item paragraph--view-mode--default do…\" role=\"tablist\" aria-multiselectable=\"true\">",
+            "nodeLabel": "Publications",
+            "explanation": "Fix any of the following:\n  Required ARIA child role not present: tab"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "15-237-DIV",
+            "path": "1,HTML,1,BODY,1,DIV,0,DIV,2,MAIN,2,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,3,DIV,0,DIV",
+            "selector": "div.field > div.accordion-wrapper > div.accordion-group > div.paragraph",
+            "boundingRect": {
+              "top": 3461,
+              "bottom": 3573,
+              "left": 40,
+              "right": 332,
+              "width": 292,
+              "height": 113
+            },
+            "snippet": "<div class=\"paragraph paragraph--type--accordion-item paragraph--view-mode--default do…\" role=\"tablist\" aria-multiselectable=\"true\">",
+            "nodeLabel": "Ask a Question, Submit a Complaint, Report a Problem",
+            "explanation": "Fix any of the following:\n  Required ARIA child role not present: tab"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "critical",
+        "tags": [
+          "cat.aria",
+          "wcag2a",
+          "wcag131"
+        ]
+      }
+    },
+    "errorCount": 4
+  }
+]
