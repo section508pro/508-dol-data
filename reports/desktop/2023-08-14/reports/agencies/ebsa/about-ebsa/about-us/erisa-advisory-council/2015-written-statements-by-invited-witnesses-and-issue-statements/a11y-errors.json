@@ -1,0 +1,111 @@
+[
+  {
+    "id": "aria-required-children",
+    "title": "Elements with an ARIA `[role]` that require children to contain a specific `[role]` are missing some or all of those required children.",
+    "description": "Some ARIA parent roles must contain specific child roles to perform their intended accessibility functions. [Learn more](https://web.dev/aria-required-children/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "11-245-DIV",
+            "path": "1,HTML,1,BODY,1,DIV,0,DIV,2,MAIN,2,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV",
+            "selector": "div.field > div.accordion-wrapper > div.accordion-group > div.paragraph",
+            "boundingRect": {
+              "top": 470,
+              "bottom": 1754,
+              "left": 40,
+              "right": 948,
+              "width": 908,
+              "height": 1284
+            },
+            "snippet": "<div class=\"paragraph paragraph--type--accordion-item paragraph--view-mode--default do…\" role=\"tablist\" aria-multiselectable=\"true\">",
+            "nodeLabel": "Model Notices and Plan Sponsor Education on Lifetime Plan Participation\n\nBruce …",
+            "explanation": "Fix any of the following:\n  Required ARIA child role not present: tab"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "11-246-DIV",
+            "path": "1,HTML,1,BODY,1,DIV,0,DIV,2,MAIN,2,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV",
+            "selector": "div.field > div.accordion-wrapper > div.accordion-group > div.paragraph",
+            "boundingRect": {
+              "top": 1754,
+              "bottom": 1815,
+              "left": 40,
+              "right": 948,
+              "width": 908,
+              "height": 62
+            },
+            "snippet": "<div class=\"paragraph paragraph--type--accordion-item paragraph--view-mode--default do…\" role=\"tablist\" aria-multiselectable=\"true\">",
+            "nodeLabel": "Model Notices and Disclosures for Pension Risk Transfers",
+            "explanation": "Fix any of the following:\n  Required ARIA child role not present: tab"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "11-247-DIV",
+            "path": "1,HTML,1,BODY,1,DIV,0,DIV,2,MAIN,2,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,2,DIV,0,DIV",
+            "selector": "div.field > div.accordion-wrapper > div.accordion-group > div.paragraph",
+            "boundingRect": {
+              "top": 1815,
+              "bottom": 1877,
+              "left": 40,
+              "right": 948,
+              "width": 908,
+              "height": 62
+            },
+            "snippet": "<div class=\"paragraph paragraph--type--accordion-item paragraph--view-mode--default do…\" role=\"tablist\" aria-multiselectable=\"true\">",
+            "nodeLabel": "Security and Privacy Risks Related to Model Notices and Disclosures",
+            "explanation": "Fix any of the following:\n  Required ARIA child role not present: tab"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "11-248-DIV",
+            "path": "1,HTML,1,BODY,1,DIV,0,DIV,2,MAIN,2,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,3,DIV,0,DIV",
+            "selector": "div.field > div.accordion-wrapper > div.accordion-group > div.paragraph",
+            "boundingRect": {
+              "top": 1877,
+              "bottom": 1938,
+              "left": 40,
+              "right": 948,
+              "width": 908,
+              "height": 62
+            },
+            "snippet": "<div class=\"paragraph paragraph--type--accordion-item paragraph--view-mode--default do…\" role=\"tablist\" aria-multiselectable=\"true\">",
+            "nodeLabel": "2015 Issue Statements for the ERISA Advisory Council",
+            "explanation": "Fix any of the following:\n  Required ARIA child role not present: tab"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "critical",
+        "tags": [
+          "cat.aria",
+          "wcag2a",
+          "wcag131"
+        ]
+      }
+    },
+    "errorCount": 4
+  }
+]
