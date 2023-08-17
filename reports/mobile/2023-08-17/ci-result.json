@@ -1,0 +1,1594 @@
+[
+  {
+    "path": "/",
+    "score": 0.89,
+    "performance": 0.95,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.78
+  },
+  {
+    "path": "/agencies/arb",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.78
+  },
+  {
+    "path": "/agencies/arb/about",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/arb/about/members",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/arb/arb_efile",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/arb/briefs/07-123",
+    "score": 0.94,
+    "performance": 0.99,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/arb/briefs/08-032",
+    "score": 0.92,
+    "performance": 0.91,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/arb/briefs/09-108",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/arb/briefs/13-001",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/arb/briefs/13-034",
+    "score": 0.94,
+    "performance": 0.99,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/arb/briefs/16-019_16-021",
+    "score": 0.91,
+    "performance": 0.89,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/arb/briefs/16-035",
+    "score": 0.93,
+    "performance": 0.95,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/arb/contact",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/arb/contact/information-quality",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/arb/decisions",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/arb/faqs",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/arb/faqs/address",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/arb/faqs/dec",
+    "score": 0.94,
+    "performance": 0.99,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/arb/faqs/fax",
+    "score": 0.93,
+    "performance": 0.95,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/arb/faqs/pregs",
+    "score": 0.92,
+    "performance": 0.92,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/arb/faqs/prov",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/arb/faqs/status",
+    "score": 0.93,
+    "performance": 0.96,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/arb/foia",
+    "score": 0.93,
+    "performance": 0.94,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/arb/links",
+    "score": 0.94,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/arb/orgchart",
+    "score": 0.91,
+    "performance": 0.87,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/arb/resources/amicus-briefs",
+    "score": 0.93,
+    "performance": 0.95,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/arb/resources/electronic-filing-service",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/arb/resources/rules",
+    "score": 0.91,
+    "performance": 0.9,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/brb",
+    "score": 0.93,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.78
+  },
+  {
+    "path": "/agencies/brb/bldesk",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/brb/contact",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/published",
+    "score": 0.93,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.82
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/published/1997-1999main",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/published/2000-2002main",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/published/2008fnmain",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/published/2013main",
+    "score": 0.94,
+    "performance": 0.99,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/published/2016main",
+    "score": 0.92,
+    "performance": 0.89,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/published/2018main",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/published/2022main",
+    "score": 0.92,
+    "performance": 0.91,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/published/2023main",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished",
+    "score": 0.88,
+    "performance": 0.84,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 0.82
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Apr07/fnmain",
+    "score": 0.94,
+    "performance": 0.97,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Apr08/fnmain",
+    "score": 0.92,
+    "performance": 0.9,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Apr09/fnmain",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Aug07/fnmain",
+    "score": 0.92,
+    "performance": 0.9,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Aug08/fnmain",
+    "score": 0.91,
+    "performance": 0.88,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Aug09/fnmain",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Aug13",
+    "score": 0.92,
+    "performance": 0.9,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Dec07",
+    "score": 0.92,
+    "performance": 0.91,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Dec07/fnmain",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Dec08/fnmain",
+    "score": 0.93,
+    "performance": 0.95,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Dec10",
+    "score": 0.93,
+    "performance": 0.94,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Feb07/fnmain",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Feb08/fnmain",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Feb09/fnmain",
+    "score": 0.93,
+    "performance": 0.95,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Jan07/fnmain",
+    "score": 0.92,
+    "performance": 0.9,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Jan08/fnmain",
+    "score": 0.92,
+    "performance": 0.91,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Jan09/fnmain",
+    "score": 0.93,
+    "performance": 0.94,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Jan11",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Jul07/fnmain",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Jul08/fnmain",
+    "score": 0.93,
+    "performance": 0.95,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Jul09/fnmain",
+    "score": 0.93,
+    "performance": 0.94,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/juldec93/92-1697",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/juldec96/95-2163",
+    "score": 0.93,
+    "performance": 0.94,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Jun07/fnmain",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Jun08/fnmain",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Jun09/fnmain",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Mar07/fnmain",
+    "score": 0.92,
+    "performance": 0.92,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Mar08/fnmain",
+    "score": 0.92,
+    "performance": 0.92,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Mar09/fnmain",
+    "score": 0.92,
+    "performance": 0.9,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Mar16",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/May07/fnmain",
+    "score": 0.92,
+    "performance": 0.9,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/May08/fnmain",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/May09/fnmain",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/May22",
+    "score": 0.93,
+    "performance": 0.94,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Nov07/fnmain",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Nov08/fnmain",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Nov19",
+    "score": 0.93,
+    "performance": 0.93,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Oct07/fnmain",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Oct08/fnmain",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Oct09/fnmain",
+    "score": 0.92,
+    "performance": 0.9,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Sept07/fnmain",
+    "score": 0.91,
+    "performance": 0.86,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Sept08/fnmain",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Sept09/fnmain",
+    "score": 0.92,
+    "performance": 0.9,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished/Sept98",
+    "score": 0.92,
+    "performance": 0.9,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/blklung/unpublished2",
+    "score": 0.89,
+    "performance": 0.87,
+    "accessibility": 0.93,
+    "best-practices": 0.92,
+    "seo": 0.83
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/published",
+    "score": 0.92,
+    "performance": 0.95,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.81
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/published/1986-1993main",
+    "score": 0.93,
+    "performance": 0.93,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/published/1996main",
+    "score": 0.91,
+    "performance": 0.88,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/published/1999main",
+    "score": 0.93,
+    "performance": 0.95,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/published/2000main",
+    "score": 0.92,
+    "performance": 0.91,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/published/2009main",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/published/2015main",
+    "score": 0.93,
+    "performance": 0.94,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/published/2016main",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/published/99-1192",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished",
+    "score": 0.88,
+    "performance": 0.84,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 0.82
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Apr07/fnmain",
+    "score": 0.94,
+    "performance": 0.99,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Apr08/fnmain",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Apr09/fnmain",
+    "score": 0.94,
+    "performance": 0.99,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Apr99",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Aug07",
+    "score": 0.93,
+    "performance": 0.95,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Aug07/fnmain",
+    "score": 0.92,
+    "performance": 0.92,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Aug08/fnmain",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Aug09/fnmain",
+    "score": 0.94,
+    "performance": 0.99,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Dec07/fnmain",
+    "score": 0.93,
+    "performance": 0.94,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Dec08/fnmain",
+    "score": 0.93,
+    "performance": 0.95,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Feb07/fnmain",
+    "score": 0.93,
+    "performance": 0.95,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Feb08/fnmain",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Feb09/fnmain",
+    "score": 0.93,
+    "performance": 0.96,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Feb98/97-0668",
+    "score": 0.93,
+    "performance": 0.94,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Jan07/fnmain",
+    "score": 0.88,
+    "performance": 0.75,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Jan08/fnmain",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Jan09/fnmain",
+    "score": 0.93,
+    "performance": 0.94,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Jul07/fnmain",
+    "score": 0.91,
+    "performance": 0.87,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Jul08/fnmain",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Jul09/fnmain",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Jun07/fnmain",
+    "score": 0.91,
+    "performance": 0.86,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Jun08/fnmain",
+    "score": 0.92,
+    "performance": 0.91,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Jun09/fnmain",
+    "score": 0.92,
+    "performance": 0.91,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Mar00",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Mar07/fnmain",
+    "score": 0.92,
+    "performance": 0.9,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Mar08/fnmain",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Mar09/fnmain",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Mar14",
+    "score": 0.93,
+    "performance": 0.93,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Mar23",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/May07/fnmain",
+    "score": 0.92,
+    "performance": 0.89,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/May08/fnmain",
+    "score": 0.93,
+    "performance": 0.95,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/May09/fnmain",
+    "score": 0.93,
+    "performance": 0.94,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/May23",
+    "score": 0.92,
+    "performance": 0.9,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Nov07/fnmain",
+    "score": 0.92,
+    "performance": 0.9,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Nov08/fnmain",
+    "score": 0.94,
+    "performance": 0.99,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Oct00",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Oct02",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Oct07/fnmain",
+    "score": 0.92,
+    "performance": 0.92,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Oct08/fnmain",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Oct09/fnmain",
+    "score": 0.92,
+    "performance": 0.9,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Sept07/fnmain",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Sept08/fnmain",
+    "score": 0.92,
+    "performance": 0.89,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/decisions/lngshore/unpublished/Sept09/fnmain",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/faqs",
+    "score": 0.93,
+    "performance": 0.93,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/faqs/address",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/brb/faqs/appeal",
+    "score": 0.93,
+    "performance": 0.95,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/brb/faqs/doc",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/brb/faqs/pleading",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/brb/faqs/status",
+    "score": 0.94,
+    "performance": 0.99,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/brb/foia",
+    "score": 0.91,
+    "performance": 0.9,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/brb/lsdesk",
+    "score": 0.92,
+    "performance": 0.93,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/brb/notice_of_appeal_rights",
+    "score": 0.94,
+    "performance": 0.98,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/brb/References/reference_works/bla/bldesk",
+    "score": 0.92,
+    "performance": 0.95,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/brb/References/Reference_Works/Bla/cco",
+    "score": 0.92,
+    "performance": 0.92,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/References/Reference_works/lhca/lsdesk",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/regs",
+    "score": 0.93,
+    "performance": 0.93,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/brb/welcome",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/cfoi/featured/reentry",
+    "score": 0.93,
+    "performance": 0.96,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.83
+  },
+  {
+    "path": "/agencies/cfoi/featured/working-together",
+    "score": 0.92,
+    "performance": 0.91,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.83
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/about-us",
+    "score": 0.92,
+    "performance": 0.93,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/about-us/erisa-advisory-council",
+    "score": 0.91,
+    "performance": 0.96,
+    "accessibility": 0.93,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/about-us/erisa-advisory-council/2003-defined-benefit-plan-funding-and-discount-rate-issues",
+    "score": 0.93,
+    "performance": 0.95,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/about-us/erisa-advisory-council/2003-health-care-security-consumer-directed-healthcare-arrangements",
+    "score": 0.89,
+    "performance": 0.81,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/about-us/erisa-advisory-council/2005-communications-to-retirement-plan-participants",
+    "score": 0.91,
+    "performance": 0.88,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/about-us/erisa-advisory-council/2010-disparities-for-women-and-minorities-in-retirement-savings",
+    "score": 0.91,
+    "performance": 0.9,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/about-us/erisa-advisory-council/2015-written-statements-by-invited-witnesses-and-issue-statements",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/about-us/erisa-advisory-council/2017-written-statements-by-invited-witnesses-and-issue-statements",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.93,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/about-us/erisa-advisory-council/2020-written-statements-by-invited-witnesses-and-issue-statements",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.93,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/about-us/erisa-advisory-council/2022-written-statements-by-invited-witnesses-and-issue-statements",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/about-us/history-of-ebsa-and-erisa",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/about-us/mission-statement",
+    "score": 0.91,
+    "performance": 0.88,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/about-us/organization-chart",
+    "score": 0.89,
+    "performance": 0.92,
+    "accessibility": 0.93,
+    "best-practices": 0.92,
+    "seo": 0.77
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/about-us/regional-offices",
+    "score": 0.91,
+    "performance": 0.9,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/about-us/sbrefa-non-retaliation-policy",
+    "score": 0.92,
+    "performance": 0.91,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/about-us/state-all-payer-claims-databases-advisory-committee",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.93,
+    "best-practices": 0.92,
+    "seo": 0.77
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/about-us/what-we-do",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/ask-a-question/ask-ebsa",
+    "score": 0.89,
+    "performance": 0.93,
+    "accessibility": 0.93,
+    "best-practices": 0.92,
+    "seo": 0.77
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/ask-a-question/hace-una-pregunta",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities",
+    "score": 0.93,
+    "performance": 0.94,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/enforcement",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.93,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/enforcement/eci",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.93,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/enforcement/erisa",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/enforcement/healthcare-fraud",
+    "score": 0.9,
+    "performance": 0.9,
+    "accessibility": 0.93,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/enforcement/oca-manual",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/enforcement/oca-manual/chapter-1",
+    "score": 0.93,
+    "performance": 0.94,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/enforcement/oca-manual/chapter-2",
+    "score": 0.91,
+    "performance": 0.88,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/enforcement/oca-manual/chapter-3",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/enforcement/oca-manual/chapter-4",
+    "score": 0.94,
+    "performance": 0.99,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/enforcement/oca-manual/chapter-5",
+    "score": 0.91,
+    "performance": 0.89,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/enforcement/oca-manual/chapter-7",
+    "score": 0.86,
+    "performance": 0.66,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/enforcement/oca-manual/chapter-8",
+    "score": 0.91,
+    "performance": 0.89,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/enforcement/oca-manual/chapter-9",
+    "score": 0.93,
+    "performance": 0.94,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/enforcement/oe-manual",
+    "score": 0.9,
+    "performance": 0.91,
+    "accessibility": 0.93,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/enforcement/oe-manual-full",
+    "score": 0.89,
+    "performance": 0.87,
+    "accessibility": 0.93,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/enforcement/oe-manual/civil-penalties",
+    "score": 0.94,
+    "performance": 0.98,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/enforcement/oe-manual/collection-and-preservation-of-evidence",
+    "score": 0.92,
+    "performance": 0.93,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/enforcement/oe-manual/complaints",
+    "score": 0.92,
+    "performance": 0.92,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/enforcement/oe-manual/cross-regional-auxiliary-investigations",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/enforcement/oe-manual/fiduciary-investigations-program",
+    "score": 0.91,
+    "performance": 0.86,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/enforcement/oe-manual/health-plan-investigations",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/enforcement/oe-manual/participants-rights",
+    "score": 0.9,
+    "performance": 0.86,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/ebsa/about-ebsa/our-activities/enforcement/oe-manual/relationship-with-oig",
+    "score": 0.92,
+    "performance": 0.92,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  },
+  {
+    "path": "/agencies/EBSA/employers-and-advisers/guidance/field-assistance-bulletins/2019-01",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.84
+  }
+]
