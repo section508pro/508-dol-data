@@ -1,0 +1,92 @@
+[
+  {
+    "id": "aria-required-children",
+    "title": "Elements with an ARIA `[role]` that require children to contain a specific `[role]` are missing some or all of those required children.",
+    "description": "Some ARIA parent roles must contain specific child roles to perform their intended accessibility functions. [Learn more](https://web.dev/aria-required-children/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "11-227-DIV",
+            "path": "1,HTML,1,BODY,1,DIV,0,DIV,2,MAIN,2,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV",
+            "selector": "div.field > div.accordion-wrapper > div.accordion-group > div.paragraph",
+            "boundingRect": {
+              "top": 527,
+              "bottom": 2519,
+              "left": 40,
+              "right": 332,
+              "width": 292,
+              "height": 1993
+            },
+            "snippet": "<div class=\"paragraph paragraph--type--accordion-item paragraph--view-mode--default do…\" role=\"tablist\" aria-multiselectable=\"true\">",
+            "nodeLabel": "Lifetime Income Solutions as a Qualified Default Investment Alternative (QDIA) …",
+            "explanation": "Fix any of the following:\n  Required ARIA child role not present: tab"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "11-228-DIV",
+            "path": "1,HTML,1,BODY,1,DIV,0,DIV,2,MAIN,2,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV",
+            "selector": "div.field > div.accordion-wrapper > div.accordion-group > div.paragraph",
+            "boundingRect": {
+              "top": 2519,
+              "bottom": 2759,
+              "left": 40,
+              "right": 332,
+              "width": 292,
+              "height": 240
+            },
+            "snippet": "<div class=\"paragraph paragraph--type--accordion-item paragraph--view-mode--default do…\" role=\"tablist\" aria-multiselectable=\"true\">",
+            "nodeLabel": "Evaluating the Department’s Regulations and Guidance on ERISA Bonding Requireme…",
+            "explanation": "Fix any of the following:\n  Required ARIA child role not present: tab"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "11-229-DIV",
+            "path": "1,HTML,1,BODY,1,DIV,0,DIV,2,MAIN,2,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,2,DIV,0,DIV",
+            "selector": "div.field > div.accordion-wrapper > div.accordion-group > div.paragraph",
+            "boundingRect": {
+              "top": 2759,
+              "bottom": 2897,
+              "left": 40,
+              "right": 332,
+              "width": 292,
+              "height": 138
+            },
+            "snippet": "<div class=\"paragraph paragraph--type--accordion-item paragraph--view-mode--default do…\" role=\"tablist\" aria-multiselectable=\"true\">",
+            "nodeLabel": "2018 Issue Statements for the ERISA Advisory Council",
+            "explanation": "Fix any of the following:\n  Required ARIA child role not present: tab"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "critical",
+        "tags": [
+          "cat.aria",
+          "wcag2a",
+          "wcag131"
+        ]
+      }
+    },
+    "errorCount": 3
+  }
+]
